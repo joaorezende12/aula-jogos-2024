@@ -1,3 +1,6 @@
+<<<<<<< HEAD
 aulaaula
 aaahhhh ahhhhhhhh
-aaaaaiiiiiiiiiii
+aaaaaiiiiiiiiiiiaaaaaiiiiiiiiiii
+=======
+>>>>>>> parent of 8ea77fd (Aprimoramento do texto)
